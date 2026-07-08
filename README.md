@@ -1,6 +1,7 @@
-https://i.ibb.co/PsycpCXP/Chat-GPT-Image-Jul-7-2026-11-28-32-AM.png
 
 # Truth Verification Pipeline
+
+![Truth Verification Pipeline](https://i.ibb.co/PsycpCXP/Chat-GPT-Image-Jul-7-2026-11-28-32-AM.png)
 
 A multi-stage fact-verification API. Given a claim or question, it extracts
 the underlying factual assertions, searches the live web for evidence,
@@ -155,3 +156,4 @@ request.
   high/low-credibility domain hints, not an exhaustive authority ranking.
 - This is a research/demo tool, not a substitute for professional
   judgment — see the caveats field for claims in high-stakes domains.
+  
